@@ -13,7 +13,7 @@ function Footer() {
 
                 </div>
             </div>
-            <div className='bg-[#889FDC] flex items-center justify-center w-screen py-3 absolute bottom-0'>
+            <div className='bg-[#889FDC] flex items-center justify-cente py-3 absolute bottom-0'>
                 <span className="text-white text-center font-irish md:text-base text-sm  ">© Copyright 2022 • Droplets • All rights reserved</span>
             </div>
         </div>
